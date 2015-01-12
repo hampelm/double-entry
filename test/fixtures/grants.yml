@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  amount: 
+  start: 2015-01-11
+  complete: 2015-01-11
+  source: MyString
+  from_id: 
+  to_id: 
+
+two:
+  amount: 
+  start: 2015-01-11
+  complete: 2015-01-11
+  source: MyString
+  from_id: 
+  to_id: 
